@@ -1,5 +1,4 @@
 
-
 PROJECT DESCRIPTION AND GUIDELINES PROVIDED ON ASSIGNMENT INSTRUCTIONS
 
 Using Turtle Graphics, draw the flag of Panama. (You have to actually draw it; you can't just include an image of the flag downloaded from the web.) I chose that flag because it's fairly simple to draw, consisting of several simple shapes. And it's pretty.
